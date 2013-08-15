@@ -11,14 +11,10 @@ a:hover		{color: #cc6600;}
 a:active   {color: #ff9933;}
 a:visited   {color: #ffcccc;}
 	
-<<<<<<< HEAD
-ul { list-style-type:none;}	
-=======
 	
->>>>>>> parent of 60bcd3e... remove bullets fom ul lists
 	
 h1, h2, h3 { font-family:"Century Gothic","Lucida Grande",Arial,sans-serif;}
 h1 {font-size: 40px; color: #666666; margin-top:0px}
-h2 {font-size: 24px; color: #000; margin-top:0px}
-h3 {font-size: 24px; color: #fff; margin-top:0px}
+h2, h3 {font-size: 40px; color: #000; margin-top:0px}
+
 
