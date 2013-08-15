@@ -4,11 +4,13 @@ body {
 	font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
 	font-size: 16px; color: #000; margin: 0;
 	
+nav {
 a:link, a:hover, a:active, a:visited   {text-decoration: none; background: transparent;outline:none;}
-a:link    	{color: #666666;}
+a:link    	{color: #000;}
 a:hover		{color: #cc6600;}
 a:active   {color: #ff9933;}
-a:visited   {color: #555555;}}
+a:visited   {color: #ffcccc;}
+}
 	
 ul{ list-style-type:none;
 }	
