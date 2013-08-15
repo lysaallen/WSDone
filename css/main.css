@@ -2,16 +2,18 @@ body {
    background-image: url('bg1.jpg')
    background-color: none;
 	font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
-	font-size: 16px; color: #000; margin: 0;}
+	font-size: 16px; color: #000; margin: 0;
+	
+a:link, a:hover, a:active, a:visited   {text-decoration: none; background: transparent;outline:none;}
+a:link    	{color: #666666;}
+a:hover		{color: #cc6600;}
+a:active   {color: #ff9933;}
+a:visited   {color: #555555;}}
+	
+	
 	
 h1, h2, h3 { font-family:"Century Gothic","Lucida Grande",Arial,sans-serif;}
 h1 {font-size: 40px; color: #666666; margin-top:0px}
 h2 {font-size: 24px; color: #000; margin-top:0px}
 h3 {font-size: 24px; color: #fff; margin-top:0px}
-
-a:link, a:hover, a:active, a:visited   {text-decoration: none; background: transparent;outline:none;}
-a:link    	{color: #666666;}
-a:hover		{color: #cc6600;}
-a:active   {color: #ff9933;}
-a:visited   {color: #555555;}
 
