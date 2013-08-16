@@ -13,7 +13,7 @@ background-size: 100% 100%;
 background-repeat: no-repeat;
 }
 
-li { display: inline; text-align: right;}
+li { display: inline;}
 li {text-decoration: none; background:none; outline:none;}
 a:link, a:hover, a:active, a:visited   
 a:link    	{color: #fff;}
