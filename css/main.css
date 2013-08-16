@@ -1,7 +1,10 @@
 body { 
-	font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
-	font-size: 16px; color: #000; margin: 0;
-	}
+font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
+font-size: 16px; color: #000; 
+margin: 20px;
+padding: 15px;
+width: 790px;
+}
 	
 div{
 background: url('bg1.jpg');
