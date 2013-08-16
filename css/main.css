@@ -14,7 +14,7 @@ background-repeat: no-repeat;
 }
 
 li { display: inline;}
-{text-decoration: none; background: #ffffff; outline:none;}
+li {text-decoration: none; background: #ffffff; outline:none;}
 a:link, a:hover, a:active, a:visited   
 a:link    	{color: #000;}
 a:hover		{color: #cc6600;}
