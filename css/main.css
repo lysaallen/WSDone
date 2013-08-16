@@ -1,4 +1,5 @@
-body {
+body, html {
+background: #191919;
 font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
 font-size: 16px; color: #000; 
 margin: 10px;
@@ -12,7 +13,9 @@ background-size: 100% 100%;
 background-repeat: no-repeat;
 }
 
-a:link, a:hover, a:active, a:visited   {text-decoration: none; background: #ffffff; outline:none;}
+li { display: inline;}
+{text-decoration: none; background: #ffffff; outline:none;}
+a:link, a:hover, a:active, a:visited   
 a:link    	{color: #000;}
 a:hover		{color: #cc6600;}
 a:active   {color: #ff9933;}
