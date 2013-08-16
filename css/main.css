@@ -33,3 +33,7 @@ background-color: #999;
 border: 3px solid #666;
 border-radius: 10px;
 }
+
+.bar {
+background: white; opacity: 50%; 
+display: inline;}
