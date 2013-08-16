@@ -1,3 +1,9 @@
 ul li {
 list-style-type:none
-}	
+}
+
+a:link, a:hover, a:active, a:visited   {text-decoration: none; background: #ffffff; outline:none;}
+a:link    	{color: #000;}
+a:hover		{color: #cc6600;}
+a:active   {color: #ff9933;}
+a:visited   {color: #ffcccc;}
