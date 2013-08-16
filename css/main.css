@@ -33,3 +33,5 @@ background-color: #999;
 border: 3px solid #666;
 border-radius: 10px;
 }
+
+li { display: inline;}
