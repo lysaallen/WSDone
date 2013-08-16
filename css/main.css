@@ -1,9 +1,13 @@
 body { 
-   background-image: url('bg1.jpg')
-   background-color: none;
 	font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
 	font-size: 16px; color: #000; margin: 0;
 	}
+	
+div{
+background:url('bg1.jpg');
+background-size:100% 100%;
+background-repeat:no-repeat;
+}
 
 a:link, a:hover, a:active, a:visited   {text-decoration: none; background: #ffffff; outline:none;}
 a:link    	{color: #000;}
