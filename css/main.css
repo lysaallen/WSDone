@@ -38,7 +38,4 @@ border-radius: 10px;
 
 .foot { font-size: 12px; color: #cc0000;}
 
-.nav {
-float:right;
-clear: both;
-}
+.nav { float:right;}
