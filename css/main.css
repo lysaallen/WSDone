@@ -13,7 +13,7 @@ background-size: 100% 100%;
 background-repeat: no-repeat;
 }
 
-li { display: inline;}
+li { display: inline; position: absolute; right: 15px}
 a:link, a:hover, a:active, a:visited   
 a:link    	{color: #fff;}
 a:hover		{color: #cc6600;}
