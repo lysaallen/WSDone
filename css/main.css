@@ -8,9 +8,8 @@ width: 960px;
 }
 	
 div{
-background: url('bg1.jpg');
+background: url(../images/bg1.jpg) top center no repeat;
 background-size: 100% 100%;
-background-repeat: no-repeat;
 }
 
 li { display: inline;}
