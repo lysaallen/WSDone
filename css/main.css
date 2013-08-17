@@ -14,7 +14,6 @@ background-repeat: no-repeat;
 }
 
 li { display: inline;}
-li {text-decoration: none; background:none; outline:none;}
 a:link, a:hover, a:active, a:visited   
 a:link    	{color: #fff;}
 a:hover		{color: #cc6600;}
