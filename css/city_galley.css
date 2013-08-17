@@ -1,9 +1,7 @@
 .pics { 
 background-color: #999;
 border: 3px solid #666;
-border-radius: 10px; 
-margin: 10px; 
-padding: 10px;
+border-radius: 10px;
 }
 
 ul li {list-style-type:none}	
