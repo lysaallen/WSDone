@@ -22,9 +22,7 @@ a:visited   {color: #ffcccc;}
 	
 ul{
 list-style-type:none
-}
-
-.intro, p { align: justify;}	
+}	
 	
 h1, h2, h3 { font-family:"Century Gothic","Lucida Grande",Arial,sans-serif;}
 h1 {font-size: 40px; color: #666; margin-top: 0px}
