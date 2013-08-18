@@ -1,3 +1,6 @@
+/*-----------------------------Home---------------------------*/
+
+
 body, html {
 background: #191919;
 font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
@@ -12,6 +15,14 @@ background: url('bg1.jpg');
 background-size: 100% 100%;
 background-repeat: no-repeat;
 }
+
+/*-----------------------Navigation----------------------------*/
+
+ul{
+width: 500px;
+margin: 0 auto;
+list-style-type:none
+}	
 
 li { display: inline;}
 a:link, a:hover, a:active, a:visited   
@@ -30,10 +41,11 @@ h2 {font-size: 40px; color: #333366; margin-top: 0px}
 h3 {font-size: 40px; color: #666; margin-top: 0px}
 
 
-.pics { 
+/*.pics { 
 background-color: #999;
 border: 3px solid #666;
 border-radius: 10px;
-}
+}*/
+
 
 .foot { font-size: 12px; color: #cc0000;}
