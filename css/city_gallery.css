@@ -23,9 +23,9 @@ display: inline;
 list-style: none;
 width: 250px;
 height: 250px;
-float: left;
+float: right;
 text-align: center;
-margin: 5px ;
+margin: 5px;
 padding: 5px 0px;
 overflow: hidden;
 }
