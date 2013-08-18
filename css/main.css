@@ -20,7 +20,6 @@ background-repeat: no-repeat;
 ul{
 width: 400px;
 margin: 0 auto;
-background: #999;
 list-style-type:none;
 padding: 5px;
 overflow: hidden;
@@ -37,6 +36,7 @@ clear: bottom;
 a{
 text-decoration: none;
 background: #fff;
+display: block;
 height: 30px;
 line-height: 30px;
 text-align: center;
