@@ -1,2 +1,18 @@
-h2 {font-size: 40px; color: #333366; margin-top: 0px}
-h3 {font-size: 40px; color: #666; margin-top: 0px}
+h2 {
+font-size: 40px; 
+color: #333366; 
+margin-top: 0px
+}
+
+h3 {
+font-size: 40px; 
+color: #666; 
+margin-top: 0px
+}
+
+body { 
+font-size: 14px; color: #fff; 
+margin: 10px 0px;
+padding: 15px;
+width: 960px;
+}
