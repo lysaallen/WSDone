@@ -27,7 +27,8 @@ overflow: hidden;
 
 li { 
 width: 100px;
-float; right;}
+background: silver;
+float: left;}
 
 
 a{
