@@ -18,12 +18,10 @@ width: 960px;
 overflow:hidden;
 }
 
-.thumbnail {
-display: inline;
-list-style: none;
-width: 250px;
-min-height: 175px;
-float: left;
-text-align: center;
-margin: 5px;
+.thumbnail 
+{
+float:left;
+width:110px;
+height:90px;
+margin:5px;
 }
