@@ -26,4 +26,5 @@ height: 250px;
 float: left;
 text-align: center;
 margin: 5px;
+overflow: hidden;
 }
