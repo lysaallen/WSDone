@@ -1,5 +1,2 @@
 https://github.com/lysaallen/WSDone/tree/gh-pages
-
 http://lysaallen.github.io/WSDone/index.html
-
-http://validator.w3.org/check?uri=http%3A%2F%2Flysaallen.github.io%2FWSDone%2Findex.html;ss=1;st=1;No200=1;group=1 (validation link)
