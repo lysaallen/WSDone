@@ -11,7 +11,7 @@ margin-top: 0px
 }
 
 body { 
-font-size: 14px; color: #fff; 
+font: 14px #fff; 
 margin: 10px 10px;
 padding: 15px;
 width: 960px;
