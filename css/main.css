@@ -39,6 +39,8 @@ a{
 text-decoration: none;
 background: #fff;
 display: block;
+height: 30px;
+line-height: 30px;
 
 
 a:link, a:hover, a:active, a:visited   
