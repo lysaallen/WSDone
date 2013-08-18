@@ -8,6 +8,9 @@ margin: 10px 0px;
 padding: 15px;
 width: 960px;
 }
+
+.branding {
+font-	
 	
 div{
 background: url('bg1.jpg');
@@ -30,9 +33,9 @@ float: right;
 }
 
 a:link, a:visited {
-display: block;
 font: bold 24px;
 color: #fff
+display: block;
 background-color: #98bf21;
 text-align: center;
 padding: 4px;
