@@ -19,8 +19,8 @@ background-repeat: no-repeat;
 
 ul{
 list-style-type: none;
-margin: 5px;
-padding: 5px;
+margin: 0;
+padding: 5;
 list-style-type: none;
 overflow: hidden;
 }	
