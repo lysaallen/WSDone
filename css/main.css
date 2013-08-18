@@ -28,6 +28,7 @@ overflow: hidden;
 li { 
 width: 100px;
 background: silver;
+display: inline;
 float: left;}
 
 
