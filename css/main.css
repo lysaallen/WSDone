@@ -1,6 +1,5 @@
 /*-----------------------------Home---------------------------*/
 
-
 body, html {
 background: #191919;
 font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
@@ -43,11 +42,15 @@ height: 30px;
 line-height: 30px;
 text-align: center;
 color: #cc0000;
+  
+a:link {
+color: #fff;
+background: #cc0000;
+}
 
-
-a:link, a:hover, a:active, a:visited   
-a:link    	{color: #fff;}
-a:hover		{color: #cc6600;}
+a:hover	{
+color: #cc6600;
+}
 a:active   {color: #ff9933;}
 a:visited   {color: #ffcccc;}
 	
