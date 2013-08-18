@@ -18,24 +18,24 @@ background-repeat: no-repeat;
 /*-----------------------Navigation----------------------------*/
 
 ul{
-width: 400px;
-margin: 0 auto;
-list-style-type:none;
-padding-top: 5px;
-padding-bottom: 5px;
-text-align: right;
+list-style-type: none;
+margin: 0;
+padding: 0;
+list-style-type: none;
+overflow: hidden;
 }	
 
 li {
-display:inline;
+float: left;
 }
 
 a:link, a:visited {
+display: block;
 font-weight: bold;
 color: #fff
 background-color: #98bf21;
 text-align: center;
-padding: 6px;
+padding: 4px;
 text-decoration: none;
 text-tranform: uppercase;
 }
