@@ -27,6 +27,7 @@ overflow: hidden;
 }	
 
 li { 
+display: inline;
 width: 100px;
 background: silver;
 float: right;
