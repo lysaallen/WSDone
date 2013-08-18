@@ -30,7 +30,7 @@ display: inline;
 width: 100px;
 background: silver;
 float: right;
-clear: bottom;
+overflow: hidden;
 }
 
 a{
