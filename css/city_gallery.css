@@ -17,6 +17,7 @@ padding: 15px;
 width: 960px;
 }
 
+<<<<<<< HEAD
 .thumbnail 
 {
 float:left;
@@ -24,4 +25,14 @@ width: 250px;
 height: 250px;
 margin: 5px;
 padding: 10px;
+=======
+.thumbnail {
+display: inline;
+list-style: none;
+width: 250px;
+min-height: 175px;
+float: left;
+text-align: center;
+margin: 5px;
+>>>>>>> parent of 156f637... change markup to display gallery img with captions
 }
