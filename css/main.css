@@ -21,8 +21,8 @@ ul{
 width: 400px;
 margin: 0 auto;
 list-style-type:none;
-padding: 5px;
-overflow: hidden;
+padding-top: 5px;
+padding-bottom: 0px;
 }	
 
 li { 
