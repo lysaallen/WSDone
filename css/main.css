@@ -35,6 +35,12 @@ float: left;
 clear: bottom;
 }
 
+a{
+text-decoration: none;
+background: #fff;
+display: block;
+
+
 a:link, a:hover, a:active, a:visited   
 a:link    	{color: #fff;}
 a:hover		{color: #cc6600;}
