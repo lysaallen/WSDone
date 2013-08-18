@@ -29,7 +29,7 @@ li {
 display: inline;
 width: 100px;
 background: silver;
-float: right;
+float: left;
 overflow: hidden;
 }
 
