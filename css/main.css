@@ -29,7 +29,7 @@ overflow: hidden;
 li { 
 width: 100px;
 background: silver;
-float: left;
+float: right;
 clear: bottom;
 }
 
