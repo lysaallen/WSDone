@@ -41,6 +41,8 @@ background: #fff;
 display: block;
 height: 30px;
 line-height: 30px;
+text-align: center;
+color: #cc0000;
 
 
 a:link, a:hover, a:active, a:visited   
