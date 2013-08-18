@@ -44,14 +44,14 @@ a:hover, a:active {
 background-color: #7a991a;
 }
 	
+/*--------------------Intro - Welcome to Atlanta--------------------*/
 
-	
 h1 { 
 font-size: 40px;
 font-color: #666;
 text-align: center;
 text-shadow: 2px 2px #ccc;
-margin-top: 0px
+margin-top: 5px
 }
 
 .foot { 
