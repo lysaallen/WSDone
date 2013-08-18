@@ -21,7 +21,7 @@ overflow:hidden;
 .gallery li {
 display: inline;
 list-style: none;
-width: 150px;
+width: 250px;
 min-height: 175px;
 float: left;
 margin: 10px 10px;
