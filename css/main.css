@@ -24,6 +24,7 @@ margin: 0 auto;
 background: #999;
 list-style-type:none;
 padding: 0;
+overflow: hidden;
 }	
 
 li { 
