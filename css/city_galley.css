@@ -1,11 +1,10 @@
 /*-----------------------Gallery-------------------------*/
 
-ul li {
+ul {
+border: 1px dashed #fff;
 list-style-type:none
 }
 
-.pics { 
-border: 1px dashed #fff;
 
 }
 
