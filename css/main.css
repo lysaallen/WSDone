@@ -31,6 +31,7 @@ display: inline;
 width: 125px;
 background: silver;
 float: left;
+clear: bottom;
 }
 
 a:link, a:hover, a:active, a:visited   
