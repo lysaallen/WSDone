@@ -29,11 +29,13 @@ overflow: hidden;
 }	
 
 li {
+display: inline;
 float: right;
 }
 
 a:link, a:visited {
 font: bold 24px;
+display: block;
 color: #fff
 display: block;
 background-color: #98bf21;
