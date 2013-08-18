@@ -22,11 +22,13 @@ ul{
 width: 500px;
 margin: 0 auto;
 background: #999;
-list-style-type:none;
+list-style-type: none;
 padding: 0;
 }	
 
-li { display: inline;}
+li { display: block;
+}
+
 a:link, a:hover, a:active, a:visited   
 a:link    	{color: #fff;}
 a:hover		{color: #cc6600;}
