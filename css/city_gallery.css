@@ -44,9 +44,11 @@ margin: 5px 0px;
 padding: 50px 0px;
 }
 
-div {
+p {
 column-count:3;
 -moz-column-count:3; /* Firefox */
 -webkit-column-count:3; /* Safari and Chrome */
+}
+div {
 text-align: center;
 }
