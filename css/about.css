@@ -25,6 +25,11 @@ padding: 50px 0px;
 }
 
 .art, .attractions, .after, .neighborhoods {
+font-size: 24px;
+font-color: #ffffff;
+text-align: center;
+margin: 5px 0px;
+padding: 10px 0px;
 }
 
 
