@@ -1,7 +1,16 @@
-ul li {list-style-type:none}
+
+body
+{
+background-image:url('gradient_bg');
+background-repeat:no-repeat;
+}
+
+
+
+
+
 
 h2 {font-size: 40px; color: #333366; margin-top: 0px}
-h3 {font-size: 40px; color: #666; margin-top: 0px}
 
 .foot { font-size: 12px; color: #cc0000;}
 
