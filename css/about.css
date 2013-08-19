@@ -16,15 +16,16 @@ background-repeat: no-repeat;
 
 /*-------------------------Content-------------------------*/
 
-article.see {
+.see {
 font-size: 40px;
 font-color: #7a991a;
 text-align: center;
+text-shadow: 2px 2px #ccc;
 margin: 10px 0px;
 padding: 50px 0px;
 }
 
-article.art, article.attractions, article.after, article.neighborhoods {
+.art, .attractions, .after, .neighborhoods {
 font-size: 24px;
 font-color: #ffffff;
 text-align: left;
