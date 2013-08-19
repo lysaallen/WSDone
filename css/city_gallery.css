@@ -1,54 +1,32 @@
-body { 
-font: 12px #fff; 
-margin: 10px 10px;
-padding: 15px;
+body{
+background: #ccc;
+margin: 0;
+padding: 0;
+}
+
+#wrapper {
 width: 960px;
+margin: 0 auto;
 }
 
-
-ul.gallery {
-display: inline;
-float: left;
-list-style: none;
-width: 250px;
-height: 250px;
-text-align: center;
-margin: 10px 10px;
-padding-right: 15px 15px;
-overflow: hidden;
-}
-
-.grandma {
-float:right
-border-width:5px;	
-border-style:ridge;
-padding: 0px 0px 5px 15px;
-}
-
-h2 {
-font-size: 40px;
-font-color; #7a991a;
-text-align: left; 
-margin: 5px 0px;
-padding: 50px 0px;
-}
-
-/*------------------------------Old South----------------------------------------------*/
-
-h3 { 
-font-size: 40px;
-font-color: #7a991a;
-text-align: center;
-text-shadow: 2px 2px #ccc;
-margin: 5px 0px;
-padding: 50px 0px;
+h2, h3 {
+margin: 0;
+padding: 15px 20px 0;
 }
 
 p {
-column-count:3;
--moz-column-count:3; /* Firefox */
--webkit-column-count:3; /* Safari and Chrome */
+margin: 0;
+padding: 0 20px;
 }
-div {
-text-align: center;
+
+aside {
+float: left;
+}
+
+
+
+/*------------------------------Aside----------------------------------------------*/
+
+footer {
+
 }
