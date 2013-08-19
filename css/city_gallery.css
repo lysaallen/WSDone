@@ -18,15 +18,14 @@ padding-right: 5px 5px;
 }
 
 h2 {
-font-size: 40px ##7a991a;
+font: 40px ##7a991a;
 text-align: left; 
 margin: 5px 0px;
 padding: 50px 0px;
 }
 
 h3 { 
-font-size: 40px;
-font-color: #7a991a;
+font: 40px #7a991a;
 text-align: center;
 text-shadow: 2px 2px #ccc;
 margin: 5px 0px;
