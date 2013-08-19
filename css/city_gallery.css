@@ -7,13 +7,13 @@ width: 960px;
 
 
 ul.gallery {
-display: inline;
+display: block;
 float: right;
 list-style: none;
-width: 800px;
-height: 800px;
+width: 250px;
+height: 250px;
 text-align: center;
-margin: 10px;
+margin: 10px 0px;
 padding-right: 5px 5px;
 }
 
