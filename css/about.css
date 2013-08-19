@@ -1,9 +1,10 @@
 
-body
-{
-background-image:url('gradient_bg');
-background-repeat:no-repeat;
+div{
+background: url('gradient_bg.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
 }
+
 
 
 
