@@ -31,3 +31,7 @@ text-shadow: 2px 2px #ccc;
 margin: 5px 0px;
 padding: 50px 0px;
 }
+
+div {
+text-align: center;
+}
