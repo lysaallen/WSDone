@@ -1,4 +1,4 @@
-/*-----------------------------Home---------------------------*/
+/*---------------------------About Page-----------------------------*/
 
 body, html {
 font-family:"Century Gothic","Lucida Grande",Arial,sans-serif; 
@@ -14,9 +14,9 @@ background-size: 100% 100%;
 background-repeat: no-repeat;
 }
 
-/*-------------------------About Page-------------------------*/
+/*-------------------------Content-------------------------*/
 
-.see {
+h2.see {
 font-size: 40px;
 font-color: #7a991a;
 text-align: center;
@@ -24,6 +24,8 @@ margin: 10px 0px;
 padding: 50px 0px;
 }
 
+.art, .attractions, .after, .neighborhoods {
+}
 
 
 
