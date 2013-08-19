@@ -5,6 +5,7 @@ padding: 15px;
 width: 960px;
 }
 
+
 ul.gallery {
 display: inline;
 float: right;
@@ -17,15 +18,14 @@ padding: 5px 0px;
 overflow: hidden;
 }
 
-div
-{
-border-width:5px;	
-border-style:ridge;
-}
-
 h2 {
 font-size: 40px; 
 color: #333366; 
 margin-top: 0px
 }
 
+h3 {
+font-size: 40px; 
+color: #666; 
+margin-top: 0px
+}
