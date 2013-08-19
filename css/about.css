@@ -16,7 +16,7 @@ background-repeat: no-repeat;
 
 /*-------------------------Content-------------------------*/
 
-h2.see {
+.see {
 font-size: 40px;
 font-color: #7a991a;
 text-align: center;
@@ -27,7 +27,7 @@ padding: 50px 0px;
 .art, .attractions, .after, .neighborhoods {
 font-size: 24px;
 font-color: #ffffff;
-text-align: center;
+text-align: left;
 margin: 5px 0px;
 padding: 10px 0px;
 }
