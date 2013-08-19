@@ -15,6 +15,7 @@ height: 250px;
 text-align: center;
 margin: 10px 0px;
 padding-right: 5px 5px;
+overflow: hidden;
 }
 
 h2 {
