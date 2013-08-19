@@ -5,18 +5,32 @@ padding: 15px;
 width: 960px;
 }
 
-
-ul.gallery {
-display: inline;
-float: left;
-list-style: none;
-width: 250px;
-height: 250px;
-text-align: center;
-margin: 10px 0px;
-padding-right: 5px 5px;
-overflow: hidden;
-}
+ul.gallery
+  {
+  margin:2px;
+  border:1px solid #0000ff;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+ul.gallery gallery
+  {
+  display:inline;
+  margin:3px;
+  border:1px solid #ffffff;
+  }
+ul.gallery a:hover gallery
+  {
+  border:1px solid #0000ff;
+  }
+gallery.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:120px;
+  margin:2px;
+  }
 
 h2 {
 font-size: 40px;
