@@ -47,9 +47,18 @@ background-color: #7a991a;
 	
 /*--------------------Intro - Welcome to Atlanta--------------------*/
 
-h1, h2, h3 { 
+h1 { 
 font-size: 40px;
 font-color: #fff;
+text-align: left;
+text-shadow: 2px 2px #ccc;
+margin: 5px 0px;
+padding: 5px 0px;
+}
+
+h3 { 
+font-size: 40px;
+font-color: #7a991a;
 text-align: left;
 text-shadow: 2px 2px #ccc;
 margin: 5px 0px;
