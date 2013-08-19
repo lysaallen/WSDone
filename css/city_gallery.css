@@ -7,7 +7,7 @@ width: 960px;
 
 
 ul.gallery {
-display: block;
+display: inline;
 float: left;
 list-style: none;
 width: 250px;
