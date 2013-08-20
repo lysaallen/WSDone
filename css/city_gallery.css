@@ -34,13 +34,20 @@ float: right;
 }
 
 .grandma {
-width: 94px;
-height: 125px;
+width: 240px;
+height: 320px;
 margin: 0px;
 padding: 0px 15px;
 float:right;
 }
 
+.house {
+width: 125px;
+height: 94px;
+margin: 0px;
+padding: 0px 15px;
+float:left;
+}
 footer {
 
 }
