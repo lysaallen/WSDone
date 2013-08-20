@@ -71,9 +71,11 @@ float:left;
 }
 
 p {
+float: left;
+width: 245px;
 margin: 0;
 padding: 0 20px;
-float: right;
+clear: both;
 }
 
 
