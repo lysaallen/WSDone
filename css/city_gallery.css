@@ -48,6 +48,23 @@ margin: 0px;
 padding: 0px 15px;
 float:left;
 }
+
+.bottles {
+width: 125px;
+height: 94px;
+margin: 0px;
+padding: 0px 15px;
+float:left;
+}
+
+.town {
+width: 125px;
+height: 94px;
+margin: 0px;
+padding: 0px 15px;
+float:left;
+}
+
 footer {
 
 }
