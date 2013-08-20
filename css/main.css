@@ -27,7 +27,7 @@ overflow: hidden;
 }	
 
 li {
-float: right;
+float: left;
 }
 
 a:link, a:visited {
