@@ -1,11 +1,6 @@
 body{
-background: #CCC;
-margin: 0;
-padding: 0;
-}
-
-#wrapper {
 width: 960px;
+background: #CCC;
 margin: 0 auto;
 }
 
