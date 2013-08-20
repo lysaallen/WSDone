@@ -26,13 +26,17 @@ padding: 0 20px;
 float: right;
 }
 
-aside {
-width: 600
-float: left;
-}
-
 /*------------------------------Aside----------------------------------------------*/
 
+aside {
+width: 600
+float: right;
+}
+
+.grandma {
+margin: 0px;
+padding: 0px 15px;
+}
 footer {
 
 }
