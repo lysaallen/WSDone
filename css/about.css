@@ -32,7 +32,7 @@ margin: 0;
 padding: 15px 20px 0;
 }
 
-.item_4 p {
+.art, .attractions, .after, .neighborhoods p {
 column-count:3;
 -moz-column-count:3; /* Firefox */
 -webkit-column-count:3; /* Safari and Chrome */
