@@ -35,10 +35,9 @@ text-transform:uppercase;
 font: bold 24px;
 color: #fff;
 background-color: #98bf21;
-text-align: right;
+text-align: left;
 padding: 4px;
 text-decoration: none;
-clear: both;
 }
 
 a:hover, a:active {
