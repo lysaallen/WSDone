@@ -37,13 +37,11 @@ padding: 15px 20px 0;
 }
 
 .grandma {
+float:left;
 width: 240px;
 height: 320px;
-margin: 0px;
-padding: 0px 15px;
-border: 5px;
-border-style: ridge;
-float:right;
+margin:5px;
+padding: 10px 0px 10px 10px;
 }
 
 .house {
@@ -51,7 +49,6 @@ width: 125px;
 height: 94px;
 margin: 0px;
 padding: 0px 15px;
-float:left;
 }
 
 .bottles {
@@ -59,7 +56,6 @@ width: 125px;
 height: 94px;
 margin: 0px;
 padding: 0px 15px;
-float:left;
 }
 
 .town {
@@ -67,15 +63,11 @@ width: 125px;
 height: 94px;
 margin: 0px;
 padding: 0px 15px;
-float:left;
 }
 
 p {
-float: left;
-width: 245px;
-margin: 0;
-padding: 0 20px;
 clear: both;
+margin: 5px;
 }
 
 
