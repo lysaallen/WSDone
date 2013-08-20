@@ -42,26 +42,27 @@ padding: 10px 15px 10px 0px;
 width: 125px;
 height: 94px;
 margin: 0px;
-padding: 0px 15px;
+padding: 0px; 15px;
 }
 
 .bottles {
 width: 125px;
 height: 94px;
 margin: 0px;
-padding: 0px 15px;
+padding: 0px; 15px;
 }
 
 .town {
 width: 125px;
 height: 94px;
 margin: 0px;
-padding: 0px 15px;
+padding: 0px; 15px;
 }
 
 p {
 clear: both;
 margin: 5px;
+float: left;
 }
 
 
